@@ -1,0 +1,2 @@
+# fraud-detection-using-Self-organizing-maps
+To detect anomalies between customers of a bank in an credit card application and to detect any possible fraudulent behavior that might occur.It helps banks to better understand these types of customers and detect them more accurately compared to a normal hard coded program which checks a set of conditions which can be easily evaded .SOM’s are implemented using Minisom.
